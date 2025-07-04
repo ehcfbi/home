@@ -1,0 +1,21 @@
+.selected{
+  border-radius: 5px;
+  background-color: blue;
+  padding: 10px;
+  text-decoration: none;
+  color: white;
+}
+.btn{
+  border-radius: 5px;
+  background-color: lightblue;
+  padding: 10px;
+  text-decoration: none;
+  color: white;
+}
+.content{
+  border-radius: 5px;
+  background-color: orange;
+  padding: 10px;
+  text-decoration: none;
+  color: lightgreen;
+}
